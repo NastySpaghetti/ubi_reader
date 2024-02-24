@@ -16,7 +16,7 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #############################################################
-
+#
 import re
 from ubireader.debug import error, log
 from ubireader.ubi.defines import UBI_EC_HDR_MAGIC, FILE_CHUNK_SZ
